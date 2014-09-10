@@ -1,3 +1,9 @@
+blankon-minimal-desktop (10.00.16) tambora; urgency=low
+
+  * Drop many packages
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 10 Sep 2014 23:46:24 +0700
+
 blankon-minimal-desktop (10.00.15) tambora; urgency=medium
 
   * Drop debian-keyring, frimware*, blankon-sounds, unrar
