@@ -1,3 +1,9 @@
+blankon-minimal-desktop (10.00.13) tambora; urgency=low
+
+  * BlankOn Minimal Desktop without office & Graphics packages
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 10 Sep 2014 12:04:50 +0700
+
 blankon-desktop (10.00.12) tambora; urgency=medium
 
   * Upgrade Kerenel to 3.16-1 
