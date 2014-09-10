@@ -1,3 +1,9 @@
+blankon-minimal-desktop (10.00.15) tambora; urgency=medium
+
+  * Drop debian-keyring, frimware*, blankon-sounds, unrar
+
+ -- Mahyuddin <aftian@di.blankon.in>  Wed, 10 Sep 2014 17:36:32 +0700
+
 blankon-minimal-desktop (10.00.14) tambora; urgency=low
 
   * Drop many packages to make iso mini
