@@ -1,3 +1,9 @@
+blankon-minimal-desktop (10.00.14) tambora; urgency=low
+
+  * Drop many packages to make iso mini
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 10 Sep 2014 13:30:33 +0700
+
 blankon-minimal-desktop (10.00.13) tambora; urgency=low
 
   * BlankOn Minimal Desktop without office & Graphics packages
